@@ -1,0 +1,107 @@
+/* App.css */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.app {
+  display: flex;
+  min-height: 100vh;
+  background: #f0f0f0;
+  color: #333;
+}
+
+.app.dark {
+  background: #121212;
+  color: white;
+}
+
+.sidebar {
+  width: 250px;
+  padding: 20px;
+  background: #fff;
+  border-right: 1px solid #ccc;
+}
+
+.sidebar input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.sidebar ul {
+  list-style: none;
+  padding: 0;
+}
+
+.sidebar li {
+  padding: 10px;
+  cursor: pointer;
+}
+
+.sidebar li:hover {
+  background-color: #eee;
+}
+
+.sidebar li.active {
+  background-color: #007bff;
+  color: white;
+}
+
+.sidebar .artist {
+  font-size: 12px;
+  color: gray;
+}
+
+.player {
+  flex: 1;
+  padding: 40px;
+  text-align: center;
+  position: relative;
+}
+
+.dark-mode-btn {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  background: #007bff;
+  color: white;
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.controls {
+  margin-top: 20px;
+}
+
+.controls button {
+  background: #007bff;
+  color: white;
+  border: none;
+  margin: 5px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.controls button:hover {
+  background: #0056b3;
+}
+
+.progress-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.progress-container input[type="range"] {
+  width: 300px;
+  margin: 0 10px;
+}
+
+.control-btn {
+  @apply bg-blue-500 hover:bg-blue-600 text-white px-4 py-2 rounded-lg transition;
+}
