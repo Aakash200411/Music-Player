@@ -19,3 +19,11 @@ Check out the live demo of the project here: [Music Player Demo](https://music-p
 - Tailwind CSS for styling
 - React hooks for state management
 - HTML5 Audio for the music player functionality
+
+## Caution and Disclaimer
+- ⚡ Important: This project uses only non-copyrighted songs that are free to use.
+
+- 🛡️ All songs included have either a Creative Commons license, have been sourced from no-copyright music libraries, or were explicitly stated to be free for public use.
+
+- 🔔 If you plan to use this project publicly, commercially, or modify it with new songs, please ensure you have the necessary rights and permissions for any additional music you include.
+
