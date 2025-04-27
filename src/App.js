@@ -3,16 +3,16 @@ import "./App.css";
 
 const songsList = [
   { 
-    name: "Channa Mereya", 
-    artist: "Arijit Singh", 
-    url: "/music/Channa Mereya - Lyric Video _ Ae Dil Hai Mushkil _ Karan Johar _ Ranbir _ Anushka _ Pritam _ Arijit.mp3", 
-    image: "https://tse1.mm.bing.net/th?id=OIP.EE8ke3YkyzlkbjgarjNtbgHaHa&pid=Api&P=0&h=180"  
+    name: "Aashiq Banaya Aapne", 
+    artist: "Shreya Ghoshal", 
+    url: "/music/Aashiq Banaya Aapne (No Copyright Song) #HimeshReshammiya #ShreyaGhoshal #EmraanHashmi #aashiqbanaya.mp3", 
+    image: "https://tse1.mm.bing.net/th?id=OIP.xosUGx9BY-JDrpVevQRALwHaEK&pid=Api&P=0&h=180"  
   },
   { 
-    name: "Kajra Re", 
-    artist: "Shankar-Ehsaan-Loy", 
-    url: "/music/Kajra Re _ Full Song _ Bunty Aur Babli _ Aishwarya, Abhishek, Amitabh Bachchan _ Shankar-Ehsaan-Loy.mp3", 
-    image: "https://tse1.mm.bing.net/th?id=OIP.DPKGR8kMTiskG9PBA3GFxAHaEU&pid=Api&P=0&h=180"
+    name: "Bekhayali", 
+    artist: "Sachet Tandon", 
+    url: "/music/Bekhayali Song _ Kabir Singh (offical No Copyright Song) #BekhyaliSong #ShahidKapoor #KiaraAdvani.mp3", 
+    image: "https://tse4.mm.bing.net/th?id=OIP.FuoBL_CmZgQSySbqF-FyswAAAA&pid=Api&P=0&h=180"
   },
   { 
     name: "ScoopWhoop 60 Years Of Bollywood", 
@@ -21,22 +21,22 @@ const songsList = [
     image: "https://tse4.mm.bing.net/th?id=OIP.ICOBeg-mlEfDnOtiQFpi5AHaD4&pid=Api&P=0&h=180"
   },
   { 
-    name: "Kuchh Toh Log Kahenge", 
-    artist: "Kishore Kumar", 
-    url: "/music/Kuchh Toh Log Kahenge Song _ 4K Ultra HD _ Rajesh Khanna _ Kishore Kumar _ Sharmila Tagore.mp3", 
-    image: "https://tse4.mm.bing.net/th?id=OIP.5CcAHv2GxEdn6EGK29k7ewHaEK&pid=Api&P=0&h=180"
+    name: "Kitni Bechain Hoke", 
+    artist: "Udit Narayan", 
+    url: "/music/Kitni Bechain Hoke - No Copyright Song Udit Narayan - Alka Yagnik - Kasoor #KitniBechainHoke  #NCS.mp3", 
+    image: "https://tse3.mm.bing.net/th?id=OIP.mpqZK54IiKXW7CJ__W4wfgHaEK&pid=Api&P=0&h=180"
   },
   { 
-    name: "Galliyan", 
-    artist: "Ankit Tiwari", 
-    url: "/music/Lyrical_ Galliyan Full Song with Lyrics _ Ek Villain _ Ankit Tiwari _ Sidharth Malhotra.mp3", 
-    image: "https://tse3.mm.bing.net/th?id=OIP.8BLdP-nxgzGw0IXL8wClqgHaEK&pid=Api&P=0&h=180"
+    name: "Khairiyat", 
+    artist: "Arijit Singh", 
+    url: "/music/Khairiyat Song (Offical No CopyRight Song) Chhichhore #ArijitSingh #SushantSinghRajput #Khairiyat.mp3", 
+    image: "https://tse2.mm.bing.net/th?id=OIP.idYfwmVSOlr-lt5eiGodSQHaEK&pid=Api&P=0&h=180"
   },
   { 
-    name: "Mere Samne Wali Khidki Mein", 
-    artist: "Kishore Kumar", 
-    url: "/music/Mere Samne Wali Khidki Mein - Padosan - Saira Banu, Sunil Dutt & Kishore Kumar - Old Hindi Songs.mp3", 
-    image: "https://tse1.mm.bing.net/th?id=OIP._CLHzI5sc0oVFfrTt__r1wHaEK&pid=Api&P=0&h=180"
+    name: "Yaara Teri Yaari", 
+    artist: "Darshan Raval", 
+    url: "/music/Yaara Teri Yaari - No Copyright song _ Tere Jaisa Yaar Qahan #yarateriyariko #yarisong #NCS.mp3", 
+    image: "https://tse1.mm.bing.net/th?id=OIP.dn0y-pEkDEv5dRbZVqRotgHaEK&pid=Api&P=0&h=180"
   },
 ];
 
